@@ -1,0 +1,18 @@
+/* Custom CSS styles */
+
+.container {
+    margin-top: 50px;
+}
+
+#signupMessage {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#profileDetails {
+    margin-top: 20px;
+}
+
+#logoutBtn {
+    margin-top: 20px;
+}
